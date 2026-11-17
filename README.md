@@ -2,9 +2,9 @@
 
 M.S. Computer Science student at **Northeastern University** (Seattle), with an M.S. in Bioinformatics and a B.S. in Biological Science from **National Yang Ming Chiao Tung University**.
 
-- 🤖 Previously an **AI Engineer at eNeural Technologies**: shipped an on-prem LLM + RAG agent that cut HR/admin case load by ~30%, an LLM coding assistant, and LLM inference on NVIDIA Jetson Orin.
-- 🧬 First-author research on an interpretable **Graph Transformer + GCN** for drug–cancer association prediction (under revision, *Bioinformatics*).
-- 🔍 Looking for **ML / SWE / SDE internships**. Open to relocation.
+- Previously an **AI Engineer at eNeural Technologies**: shipped an on-prem LLM + RAG agent that cut HR/admin case load by ~30%, an LLM coding assistant, and LLM inference on NVIDIA Jetson Orin.
+- First-author research on an interpretable **Graph Transformer + GCN** for drug–cancer association prediction (under revision, *Bioinformatics*).
+- Looking for **ML / SWE / SDE internships**. Open to relocation.
 
 ## Featured projects
 
